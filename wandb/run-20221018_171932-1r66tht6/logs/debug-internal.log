@@ -1,0 +1,103 @@
+2022-10-18 17:19:32,424 INFO    StreamThr :6485 [internal.py:wandb_internal():88] W&B internal server running at pid: 6485, started at: 2022-10-18 17:19:32.421271
+2022-10-18 17:19:32,426 DEBUG   HandlerThread:6485 [handler.py:handle_request():138] handle_request: status
+2022-10-18 17:19:32,431 DEBUG   SenderThread:6485 [sender.py:send_request():317] send_request: status
+2022-10-18 17:19:32,434 DEBUG   SenderThread:6485 [sender.py:send():303] send: header
+2022-10-18 17:19:32,434 INFO    WriterThread:6485 [datastore.py:open_for_write():75] open: /Users/jaehwan/Desktop/projects/Food_not_Food/wandb/run-20221018_171932-1r66tht6/run-1r66tht6.wandb
+2022-10-18 17:19:32,473 DEBUG   SenderThread:6485 [sender.py:send():303] send: run
+2022-10-18 17:19:33,111 DEBUG   HandlerThread:6485 [handler.py:handle_request():138] handle_request: check_version
+2022-10-18 17:19:33,118 INFO    SenderThread:6485 [dir_watcher.py:__init__():216] watching files in: /Users/jaehwan/Desktop/projects/Food_not_Food/wandb/run-20221018_171932-1r66tht6/files
+2022-10-18 17:19:33,118 INFO    SenderThread:6485 [sender.py:_start_run_threads():928] run started: 1r66tht6 with start time 1666081172.405903
+2022-10-18 17:19:33,118 DEBUG   SenderThread:6485 [sender.py:send():303] send: summary
+2022-10-18 17:19:33,119 INFO    SenderThread:6485 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2022-10-18 17:19:33,119 DEBUG   SenderThread:6485 [sender.py:send_request():317] send_request: check_version
+2022-10-18 17:19:33,194 DEBUG   HandlerThread:6485 [handler.py:handle_request():138] handle_request: run_start
+2022-10-18 17:19:33,195 DEBUG   HandlerThread:6485 [meta.py:__init__():34] meta init
+2022-10-18 17:19:33,195 DEBUG   HandlerThread:6485 [meta.py:__init__():49] meta init done
+2022-10-18 17:19:33,195 DEBUG   HandlerThread:6485 [meta.py:probe():215] probe
+2022-10-18 17:19:33,204 DEBUG   HandlerThread:6485 [meta.py:_setup_git():205] setup git
+2022-10-18 17:19:33,231 DEBUG   HandlerThread:6485 [meta.py:_setup_git():212] setup git done
+2022-10-18 17:19:33,232 DEBUG   HandlerThread:6485 [meta.py:_save_pip():53] save pip
+2022-10-18 17:19:33,233 DEBUG   HandlerThread:6485 [meta.py:_save_pip():67] save pip done
+2022-10-18 17:19:33,233 DEBUG   HandlerThread:6485 [meta.py:probe():253] probe done
+2022-10-18 17:19:33,287 DEBUG   SenderThread:6485 [sender.py:send():303] send: files
+2022-10-18 17:19:33,287 INFO    SenderThread:6485 [sender.py:_save_file():1171] saving file wandb-metadata.json with policy now
+2022-10-18 17:19:33,301 DEBUG   HandlerThread:6485 [handler.py:handle_request():138] handle_request: stop_status
+2022-10-18 17:19:33,301 DEBUG   SenderThread:6485 [sender.py:send_request():317] send_request: stop_status
+2022-10-18 17:19:33,351 INFO    HandlerThread:6485 [handler.py:handle_tbrecord():724] handling tbrecord: tbrecord {
+  log_dir: "logs/EfficientNetB0-V1/20221018-171933/train"
+  save: true
+  root_dir: "logs"
+}
+control {
+  relay_id: "1452fafe2b9b45ff9f81f8743c264d6e"
+}
+_info {
+  stream_id: "1r66tht6"
+}
+
+2022-10-18 17:19:33,352 DEBUG   HandlerThread:6485 [config_util.py:dict_from_config_file():100] no default config file found in config-defaults.yaml
+2022-10-18 17:19:39,776 INFO    Thread-13 :6485 [dir_watcher.py:_on_file_created():275] file/dir created: /Users/jaehwan/Desktop/projects/Food_not_Food/wandb/run-20221018_171932-1r66tht6/files/wandb-summary.json
+2022-10-18 17:19:39,778 INFO    Thread-13 :6485 [dir_watcher.py:_on_file_created():275] file/dir created: /Users/jaehwan/Desktop/projects/Food_not_Food/wandb/run-20221018_171932-1r66tht6/files/requirements.txt
+2022-10-18 17:19:39,782 DEBUG   SenderThread:6485 [sender.py:send():303] send: telemetry
+2022-10-18 17:19:39,823 INFO    Thread-13 :6485 [dir_watcher.py:_on_file_created():275] file/dir created: /Users/jaehwan/Desktop/projects/Food_not_Food/wandb/run-20221018_171932-1r66tht6/files/wandb-metadata.json
+2022-10-18 17:19:39,828 DEBUG   SenderThread:6485 [sender.py:send():303] send: tbrecord
+2022-10-18 17:19:40,281 INFO    Thread-17 :6485 [upload_job.py:push():143] Uploaded file /var/folders/5_/8zkh_zgn7ss63jl5zp1ns8780000gn/T/tmpe9wcpgrywandb/2k90jycw-wandb-metadata.json
+2022-10-18 17:19:40,772 INFO    Thread-13 :6485 [dir_watcher.py:_on_file_created():275] file/dir created: /Users/jaehwan/Desktop/projects/Food_not_Food/wandb/run-20221018_171932-1r66tht6/files/output.log
+2022-10-18 17:19:42,776 INFO    Thread-13 :6485 [dir_watcher.py:_on_file_modified():292] file/dir modified: /Users/jaehwan/Desktop/projects/Food_not_Food/wandb/run-20221018_171932-1r66tht6/files/output.log
+2022-10-18 17:19:45,306 DEBUG   SenderThread:6485 [sender.py:send():303] send: files
+2022-10-18 17:19:45,317 INFO    SenderThread:6485 [sender.py:_save_file():1171] saving file events.out.tfevents.1666081173.Jaehwanui-MacBookPro.local.1746.0.v2 with policy live
+2022-10-18 17:19:45,782 INFO    Thread-13 :6485 [dir_watcher.py:_on_file_created():275] file/dir created: /Users/jaehwan/Desktop/projects/Food_not_Food/wandb/run-20221018_171932-1r66tht6/files/events.out.tfevents.1666081173.Jaehwanui-MacBookPro.local.1746.0.v2
+2022-10-18 17:19:46,048 INFO    Thread-20 :6485 [upload_job.py:push():143] Uploaded file /var/folders/5_/8zkh_zgn7ss63jl5zp1ns8780000gn/T/tmpe9wcpgrywandb/2b04hrl7-events.out.tfevents.1666081173.Jaehwanui-MacBookPro.local.1746.0.v2
+2022-10-18 17:19:49,699 DEBUG   HandlerThread:6485 [handler.py:handle_request():138] handle_request: pause
+2022-10-18 17:19:49,699 INFO    HandlerThread:6485 [handler.py:handle_request_pause():696] stopping system metrics thread
+2022-10-18 17:19:49,774 DEBUG   SenderThread:6485 [sender.py:send():303] send: stats
+2022-10-18 17:19:53,354 DEBUG   HandlerThread:6485 [handler.py:handle_request():138] handle_request: stop_status
+2022-10-18 17:19:53,354 DEBUG   SenderThread:6485 [sender.py:send_request():317] send_request: stop_status
+2022-10-18 17:19:55,136 DEBUG   HandlerThread:6485 [handler.py:handle_request():138] handle_request: resume
+2022-10-18 17:19:55,136 INFO    HandlerThread:6485 [handler.py:handle_request_resume():687] starting system metrics thread
+2022-10-18 17:20:02,842 INFO    Thread-13 :6485 [dir_watcher.py:_on_file_modified():292] file/dir modified: /Users/jaehwan/Desktop/projects/Food_not_Food/wandb/run-20221018_171932-1r66tht6/files/output.log
+2022-10-18 17:20:03,843 INFO    Thread-13 :6485 [dir_watcher.py:_on_file_modified():292] file/dir modified: /Users/jaehwan/Desktop/projects/Food_not_Food/wandb/run-20221018_171932-1r66tht6/files/config.yaml
+2022-10-18 17:20:04,452 DEBUG   HandlerThread:6485 [handler.py:handle_request():138] handle_request: pause
+2022-10-18 17:20:04,452 INFO    HandlerThread:6485 [handler.py:handle_request_pause():696] stopping system metrics thread
+2022-10-18 17:20:04,551 DEBUG   SenderThread:6485 [sender.py:send():303] send: stats
+2022-10-18 17:20:04,843 INFO    Thread-13 :6485 [dir_watcher.py:_on_file_modified():292] file/dir modified: /Users/jaehwan/Desktop/projects/Food_not_Food/wandb/run-20221018_171932-1r66tht6/files/output.log
+2022-10-18 17:20:08,596 DEBUG   HandlerThread:6485 [handler.py:handle_request():138] handle_request: stop_status
+2022-10-18 17:20:08,596 DEBUG   SenderThread:6485 [sender.py:send_request():317] send_request: stop_status
+2022-10-18 17:20:23,854 DEBUG   HandlerThread:6485 [handler.py:handle_request():138] handle_request: stop_status
+2022-10-18 17:20:23,878 DEBUG   SenderThread:6485 [sender.py:send_request():317] send_request: stop_status
+2022-10-18 17:20:39,127 DEBUG   HandlerThread:6485 [handler.py:handle_request():138] handle_request: stop_status
+2022-10-18 17:20:39,128 DEBUG   SenderThread:6485 [sender.py:send_request():317] send_request: stop_status
+2022-10-18 17:20:54,390 DEBUG   HandlerThread:6485 [handler.py:handle_request():138] handle_request: stop_status
+2022-10-18 17:20:54,391 DEBUG   SenderThread:6485 [sender.py:send_request():317] send_request: stop_status
+2022-10-18 17:21:09,676 DEBUG   HandlerThread:6485 [handler.py:handle_request():138] handle_request: stop_status
+2022-10-18 17:21:09,677 DEBUG   SenderThread:6485 [sender.py:send_request():317] send_request: stop_status
+2022-10-18 17:21:24,908 DEBUG   HandlerThread:6485 [handler.py:handle_request():138] handle_request: stop_status
+2022-10-18 17:21:24,909 DEBUG   SenderThread:6485 [sender.py:send_request():317] send_request: stop_status
+2022-10-18 17:21:40,549 DEBUG   HandlerThread:6485 [handler.py:handle_request():138] handle_request: stop_status
+2022-10-18 17:21:40,558 DEBUG   SenderThread:6485 [sender.py:send_request():317] send_request: stop_status
+2022-10-18 17:21:55,884 DEBUG   HandlerThread:6485 [handler.py:handle_request():138] handle_request: stop_status
+2022-10-18 17:21:55,884 DEBUG   SenderThread:6485 [sender.py:send_request():317] send_request: stop_status
+2022-10-18 17:22:11,135 DEBUG   HandlerThread:6485 [handler.py:handle_request():138] handle_request: stop_status
+2022-10-18 17:22:11,135 DEBUG   SenderThread:6485 [sender.py:send_request():317] send_request: stop_status
+2022-10-18 17:22:26,396 DEBUG   HandlerThread:6485 [handler.py:handle_request():138] handle_request: stop_status
+2022-10-18 17:22:26,398 DEBUG   SenderThread:6485 [sender.py:send_request():317] send_request: stop_status
+2022-10-18 17:22:41,713 DEBUG   HandlerThread:6485 [handler.py:handle_request():138] handle_request: stop_status
+2022-10-18 17:22:41,713 DEBUG   SenderThread:6485 [sender.py:send_request():317] send_request: stop_status
+2022-10-18 17:22:56,988 DEBUG   HandlerThread:6485 [handler.py:handle_request():138] handle_request: stop_status
+2022-10-18 17:22:56,988 DEBUG   SenderThread:6485 [sender.py:send_request():317] send_request: stop_status
+2022-10-18 17:23:12,270 DEBUG   HandlerThread:6485 [handler.py:handle_request():138] handle_request: stop_status
+2022-10-18 17:23:12,272 DEBUG   SenderThread:6485 [sender.py:send_request():317] send_request: stop_status
+2022-10-18 17:23:27,540 DEBUG   HandlerThread:6485 [handler.py:handle_request():138] handle_request: stop_status
+2022-10-18 17:23:27,541 DEBUG   SenderThread:6485 [sender.py:send_request():317] send_request: stop_status
+2022-10-18 17:23:42,886 DEBUG   HandlerThread:6485 [handler.py:handle_request():138] handle_request: stop_status
+2022-10-18 17:23:42,888 DEBUG   SenderThread:6485 [sender.py:send_request():317] send_request: stop_status
+2022-10-18 17:23:58,177 DEBUG   HandlerThread:6485 [handler.py:handle_request():138] handle_request: stop_status
+2022-10-18 17:23:58,178 DEBUG   SenderThread:6485 [sender.py:send_request():317] send_request: stop_status
+2022-10-18 17:24:13,451 DEBUG   HandlerThread:6485 [handler.py:handle_request():138] handle_request: stop_status
+2022-10-18 17:24:13,452 DEBUG   SenderThread:6485 [sender.py:send_request():317] send_request: stop_status
+2022-10-18 17:24:20,454 WARNING StreamThr :6485 [internal.py:is_dead():385] Internal process exiting, parent pid 1746 disappeared
+2022-10-18 17:24:20,454 ERROR   StreamThr :6485 [internal.py:wandb_internal():147] Internal process shutdown.
+2022-10-18 17:24:20,695 INFO    HandlerThread:6485 [handler.py:finish():814] shutting down handler
+2022-10-18 17:24:20,695 INFO    SenderThread:6485 [sender.py:finish():1331] shutting down sender
+2022-10-18 17:24:21,177 INFO    WriterThread:6485 [datastore.py:close():279] close: /Users/jaehwan/Desktop/projects/Food_not_Food/wandb/run-20221018_171932-1r66tht6/run-1r66tht6.wandb
+2022-10-18 17:24:21,458 INFO    MainThread:6485 [internal.py:handle_exit():78] Internal process exited

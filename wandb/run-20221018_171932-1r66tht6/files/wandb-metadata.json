@@ -1,0 +1,21 @@
+{
+    "os": "macOS-12.5.1-x86_64-i386-64bit",
+    "python": "3.10.6",
+    "heartbeatAt": "2022-10-18T08:19:33.197867",
+    "startedAt": "2022-10-18T08:19:32.394277",
+    "docker": null,
+    "cpu_count": 8,
+    "cuda": null,
+    "args": null,
+    "state": "running",
+    "program": "<python with no main file>",
+    "git": {
+        "remote": "https://github.com/JaehwanO/projects.git",
+        "commit": "28b2f5cdccb8b289bb783add41a0ae04c825ac81"
+    },
+    "email": "tkswjr235@naver.com",
+    "root": "/Users/jaehwan/Desktop/projects",
+    "host": "Jaehwanui-MacBookPro.local",
+    "username": "jaehwan",
+    "executable": "/usr/local/bin/python3"
+}

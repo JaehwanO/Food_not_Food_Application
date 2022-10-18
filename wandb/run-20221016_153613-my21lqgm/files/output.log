@@ -1,0 +1,307 @@
+[34madvocate[39m [34mball[39m     [34mtest[39m     [34mtrain
+mkdir: data/model_test_images/train: File exists
+mkdir: data/model_test_images/test: File exists
+Copying:
+data/model_test_images/ball/1181488980_d6ed3b626d.jpg to
+data/model_test_images_split/train/ball/1181488980_d6ed3b626d.jpg
+Copying:
+data/model_test_images/ball/65805171_3613f2bc4c.jpg to
+data/model_test_images_split/train/ball/65805171_3613f2bc4c.jpg
+Copying:
+data/model_test_images/ball/2591563110_a38db04623.jpg to
+data/model_test_images_split/train/ball/2591563110_a38db04623.jpg
+Copying:
+data/model_test_images/ball/2783605389_2243f28bb3.jpg to
+data/model_test_images_split/train/ball/2783605389_2243f28bb3.jpg
+Copying:
+data/model_test_images/ball/2568700291_6b16f45f10.jpg to
+data/model_test_images_split/train/ball/2568700291_6b16f45f10.jpg
+Copying:
+data/model_test_images/ball/3655368403_969b7e987e.jpg to
+data/model_test_images_split/train/ball/3655368403_969b7e987e.jpg
+Copying:
+data/model_test_images/ball/3531521851_4771fe48a9.jpg to
+data/model_test_images_split/train/ball/3531521851_4771fe48a9.jpg
+Copying:
+data/model_test_images/ball/3316080914_50ac9ce6bc.jpg to
+data/model_test_images_split/train/ball/3316080914_50ac9ce6bc.jpg
+Copying:
+data/model_test_images/ball/3116971648_79d1689efa.jpg to
+data/model_test_images_split/train/ball/3116971648_79d1689efa.jpg
+Copying:
+data/model_test_images/ball/448392603_b2b1c803ba.jpg to
+data/model_test_images_split/train/ball/448392603_b2b1c803ba.jpg
+Copying:
+data/model_test_images/ball/3193858520_6252fabc50.jpg to
+data/model_test_images_split/train/ball/3193858520_6252fabc50.jpg
+Copying:
+data/model_test_images/ball/2855159293_57e13da813.jpg to
+data/model_test_images_split/train/ball/2855159293_57e13da813.jpg
+Copying:
+data/model_test_images/ball/869982791_407ece841e.jpg to
+data/model_test_images_split/train/ball/869982791_407ece841e.jpg
+Copying:
+data/model_test_images/ball/826963751_9c34924475.jpg to
+data/model_test_images_split/train/ball/826963751_9c34924475.jpg
+Copying:
+data/model_test_images/ball/1691226382_b08fb578d6.jpg to
+data/model_test_images_split/train/ball/1691226382_b08fb578d6.jpg
+Copying:
+data/model_test_images/ball/2991720072_0eeecca48b.jpg to
+data/model_test_images_split/train/ball/2991720072_0eeecca48b.jpg
+Copying:
+data/model_test_images/ball/86293735_11047a8afe.jpg to
+data/model_test_images_split/train/ball/86293735_11047a8afe.jpg
+Copying:
+data/model_test_images/ball/2950800503_8f00180b88.jpg to
+data/model_test_images_split/train/ball/2950800503_8f00180b88.jpg
+Copying:
+data/model_test_images/ball/3081316016_8baf3f6dab.jpg to
+data/model_test_images_split/train/ball/3081316016_8baf3f6dab.jpg
+Copying:
+data/model_test_images/ball/2191207308_347bb7f9c5.jpg to
+data/model_test_images_split/train/ball/2191207308_347bb7f9c5.jpg
+Copying:
+data/model_test_images/ball/2270726612_0b3ce457ba.jpg to
+data/model_test_images_split/train/ball/2270726612_0b3ce457ba.jpg
+Copying:
+data/model_test_images/ball/4055327656_84f560d62d.jpg to
+data/model_test_images_split/train/ball/4055327656_84f560d62d.jpg
+Copying:
+data/model_test_images/ball/316281551_09e3c5785e.jpg to
+data/model_test_images_split/train/ball/316281551_09e3c5785e.jpg
+Copying:
+data/model_test_images/ball/2211116547_49f25518eb.jpg to
+data/model_test_images_split/train/ball/2211116547_49f25518eb.jpg
+Copying:
+data/model_test_images/ball/2308246227_f6fe7e6a51.jpg to
+data/model_test_images_split/train/ball/2308246227_f6fe7e6a51.jpg
+Copying:
+data/model_test_images/ball/3517025606_20f054e552.jpg to
+data/model_test_images_split/train/ball/3517025606_20f054e552.jpg
+Copying:
+data/model_test_images/ball/3251882893_e0ec7b1a07.jpg to
+data/model_test_images_split/train/ball/3251882893_e0ec7b1a07.jpg
+Copying:
+data/model_test_images/ball/2177055295_b4144916ba.jpg to
+data/model_test_images_split/train/ball/2177055295_b4144916ba.jpg
+Copying:
+data/model_test_images/ball/399976281_ed5dafd040.jpg to
+data/model_test_images_split/train/ball/399976281_ed5dafd040.jpg
+Copying:
+data/model_test_images/ball/2632730007_45905c609f.jpg to
+data/model_test_images_split/train/ball/2632730007_45905c609f.jpg
+Copying:
+data/model_test_images/ball/4274921670_081d298ea2.jpg to
+data/model_test_images_split/train/ball/4274921670_081d298ea2.jpg
+Copying:
+data/model_test_images/ball/2747900844_288f8cc2f8.jpg to
+data/model_test_images_split/train/ball/2747900844_288f8cc2f8.jpg
+Copying:
+data/model_test_images/ball/122856398_8e904ae7a3.jpg to
+data/model_test_images_split/train/ball/122856398_8e904ae7a3.jpg
+Copying:
+data/model_test_images/ball/175360455_a1ee0d5c08.jpg to
+data/model_test_images_split/train/ball/175360455_a1ee0d5c08.jpg
+Copying:
+data/model_test_images/ball/4349962496_099245cf0a.jpg to
+data/model_test_images_split/train/ball/4349962496_099245cf0a.jpg
+Copying:
+data/model_test_images/ball/322987210_d815155f25.jpg to
+data/model_test_images_split/train/ball/322987210_d815155f25.jpg
+Copying:
+data/model_test_images/ball/2870147293_bd0a437325.jpg to
+data/model_test_images_split/train/ball/2870147293_bd0a437325.jpg
+Copying:
+data/model_test_images/ball/2549361323_b3d223f4e6.jpg to
+data/model_test_images_split/train/ball/2549361323_b3d223f4e6.jpg
+Copying:
+data/model_test_images/ball/527542255_0a89da04fe.jpg to
+data/model_test_images_split/train/ball/527542255_0a89da04fe.jpg
+Copying:
+data/model_test_images/ball/2123302415_15508ec0f6.jpg to
+data/model_test_images_split/train/ball/2123302415_15508ec0f6.jpg
+Copying:
+data/model_test_images/ball/2745991714_fcff5da5b1.jpg to
+data/model_test_images_split/test/ball/2745991714_fcff5da5b1.jpg
+Copying:
+data/model_test_images/ball/3063953134_a48da6403d.jpg to
+data/model_test_images_split/test/ball/3063953134_a48da6403d.jpg
+Copying:
+data/model_test_images/ball/3308263209_f9a6d60f88.jpg to
+data/model_test_images_split/test/ball/3308263209_f9a6d60f88.jpg
+Copying:
+data/model_test_images/ball/2076459727_1b86d15584.jpg to
+data/model_test_images_split/test/ball/2076459727_1b86d15584.jpg
+Copying:
+data/model_test_images/ball/3102567374_713e75ed73.jpg to
+data/model_test_images_split/test/ball/3102567374_713e75ed73.jpg
+Copying:
+data/model_test_images/ball/3780722222_353ff9c33c.jpg to
+data/model_test_images_split/test/ball/3780722222_353ff9c33c.jpg
+Copying:
+data/model_test_images/ball/3055393130_fec22a1c6f.jpg to
+data/model_test_images_split/test/ball/3055393130_fec22a1c6f.jpg
+Copying:
+data/model_test_images/ball/3538937919_6dc83890a3.jpg to
+data/model_test_images_split/test/ball/3538937919_6dc83890a3.jpg
+Copying:
+data/model_test_images/ball/4116907592_72b8680fa2.jpg to
+data/model_test_images_split/test/ball/4116907592_72b8680fa2.jpg
+Copying:
+data/model_test_images/ball/2537952430_237098c5ab.jpg to
+data/model_test_images_split/test/ball/2537952430_237098c5ab.jpg
+Copying:
+data/model_test_images/advocate/4813519609_9a57cb2ba0.jpg to
+data/model_test_images_split/train/advocate/4813519609_9a57cb2ba0.jpg
+Copying:
+data/model_test_images/advocate/790158098_efb15d2d8f.jpg to
+data/model_test_images_split/train/advocate/790158098_efb15d2d8f.jpg
+Copying:
+data/model_test_images/advocate/4520833063_6fcdf8bdf3.jpg to
+data/model_test_images_split/train/advocate/4520833063_6fcdf8bdf3.jpg
+Copying:
+data/model_test_images/advocate/3860095146_fb7a5275c8.jpg to
+data/model_test_images_split/train/advocate/3860095146_fb7a5275c8.jpg
+Copying:
+data/model_test_images/advocate/4703684995_a52038d74b.jpg to
+data/model_test_images_split/train/advocate/4703684995_a52038d74b.jpg
+Copying:
+data/model_test_images/advocate/3306746882_dd7673cb03.jpg to
+data/model_test_images_split/train/advocate/3306746882_dd7673cb03.jpg
+Copying:
+data/model_test_images/advocate/4667094052_0b19e6b7a3.jpg to
+data/model_test_images_split/train/advocate/4667094052_0b19e6b7a3.jpg
+Copying:
+data/model_test_images/advocate/4667141980_0453938fbb.jpg to
+data/model_test_images_split/train/advocate/4667141980_0453938fbb.jpg
+Copying:
+data/model_test_images/advocate/4444440303_2bc103eeb9.jpg to
+data/model_test_images_split/train/advocate/4444440303_2bc103eeb9.jpg
+Copying:
+data/model_test_images/advocate/4752037382_aa07384417.jpg to
+data/model_test_images_split/train/advocate/4752037382_aa07384417.jpg
+Copying:
+data/model_test_images/advocate/3192144509_7a0c7a3214.jpg to
+data/model_test_images_split/train/advocate/3192144509_7a0c7a3214.jpg
+Copying:
+data/model_test_images/advocate/4728933062_44770224c8.jpg to
+data/model_test_images_split/train/advocate/4728933062_44770224c8.jpg
+Copying:
+data/model_test_images/advocate/2040426517_329d2431a9_d.jpg to
+data/model_test_images_split/train/advocate/2040426517_329d2431a9_d.jpg
+Copying:
+data/model_test_images/advocate/3342465888_2ea6d6d0a2.jpg to
+data/model_test_images_split/train/advocate/3342465888_2ea6d6d0a2.jpg
+Copying:
+data/model_test_images/advocate/62153761_7fcd3bd818.jpg to
+data/model_test_images_split/train/advocate/62153761_7fcd3bd818.jpg
+Copying:
+data/model_test_images/advocate/4596789863_4b5ba985ef.jpg to
+data/model_test_images_split/train/advocate/4596789863_4b5ba985ef.jpg
+Copying:
+data/model_test_images/advocate/260888809_c09c5cdb22.jpg to
+data/model_test_images_split/train/advocate/260888809_c09c5cdb22.jpg
+Copying:
+data/model_test_images/advocate/3862172955_5f22e48c61.jpg to
+data/model_test_images_split/train/advocate/3862172955_5f22e48c61.jpg
+Copying:
+data/model_test_images/advocate/4346958498_a0cf9650d9.jpg to
+data/model_test_images_split/train/advocate/4346958498_a0cf9650d9.jpg
+Copying:
+data/model_test_images/advocate/3513224534_638eec386c.jpg to
+data/model_test_images_split/train/advocate/3513224534_638eec386c.jpg
+Copying:
+data/model_test_images/advocate/3613551773_ce1c5499c8.jpg to
+data/model_test_images_split/train/advocate/3613551773_ce1c5499c8.jpg
+Copying:
+data/model_test_images/advocate/4667138784_094220621f.jpg to
+data/model_test_images_split/train/advocate/4667138784_094220621f.jpg
+Copying:
+data/model_test_images/advocate/4408370944_7631c35273.jpg to
+data/model_test_images_split/train/advocate/4408370944_7631c35273.jpg
+Copying:
+data/model_test_images/advocate/4933222838_f61326755a.jpg to
+data/model_test_images_split/train/advocate/4933222838_f61326755a.jpg
+Copying:
+data/model_test_images/advocate/4536112426_5a6b9cae2e.jpg to
+data/model_test_images_split/train/advocate/4536112426_5a6b9cae2e.jpg
+Copying:
+data/model_test_images/advocate/4789417559_206cb043a8.jpg to
+data/model_test_images_split/train/advocate/4789417559_206cb043a8.jpg
+Copying:
+data/model_test_images/advocate/3359641725_749867256b.jpg to
+data/model_test_images_split/train/advocate/3359641725_749867256b.jpg
+Copying:
+data/model_test_images/advocate/4666504371_a1cb1a074e.jpg to
+data/model_test_images_split/train/advocate/4666504371_a1cb1a074e.jpg
+Copying:
+data/model_test_images/advocate/4457160219_78eee06071.jpg to
+data/model_test_images_split/train/advocate/4457160219_78eee06071.jpg
+Copying:
+data/model_test_images/advocate/3043814435_7d4045678e.jpg to
+data/model_test_images_split/train/advocate/3043814435_7d4045678e.jpg
+Copying:
+data/model_test_images/advocate/4775083198_c4207d8f8f.jpg to
+data/model_test_images_split/train/advocate/4775083198_c4207d8f8f.jpg
+Copying:
+data/model_test_images/advocate/4346174939_e42c1372c6.jpg to
+data/model_test_images_split/train/advocate/4346174939_e42c1372c6.jpg
+Copying:
+data/model_test_images/advocate/3770118411_7a2b683abc.jpg to
+data/model_test_images_split/train/advocate/3770118411_7a2b683abc.jpg
+Copying:
+data/model_test_images/advocate/4722331604_4670784192.jpg to
+data/model_test_images_split/train/advocate/4722331604_4670784192.jpg
+Copying:
+data/model_test_images/advocate/3941722844_eac4241b1c.jpg to
+data/model_test_images_split/train/advocate/3941722844_eac4241b1c.jpg
+Copying:
+data/model_test_images/advocate/2971927406_8bef0f6697.jpg to
+data/model_test_images_split/train/advocate/2971927406_8bef0f6697.jpg
+Copying:
+data/model_test_images/advocate/5013989298_c19658f7ed.jpg to
+data/model_test_images_split/train/advocate/5013989298_c19658f7ed.jpg
+Copying:
+data/model_test_images/advocate/3359643567_2daf8f21f0.jpg to
+data/model_test_images_split/train/advocate/3359643567_2daf8f21f0.jpg
+Copying:
+data/model_test_images/advocate/3531165493_cea1170176.jpg to
+data/model_test_images_split/train/advocate/3531165493_cea1170176.jpg
+Copying:
+data/model_test_images/advocate/1474170449_ee00c42a93.jpg to
+data/model_test_images_split/train/advocate/1474170449_ee00c42a93.jpg
+Copying:
+data/model_test_images/advocate/4988787850_ddb8d70634.jpg to
+data/model_test_images_split/test/advocate/4988787850_ddb8d70634.jpg
+Copying:
+data/model_test_images/advocate/4907622079_f29b6441dd.jpg to
+data/model_test_images_split/test/advocate/4907622079_f29b6441dd.jpg
+Copying:
+data/model_test_images/advocate/4739457385_fd1dce8e86.jpg to
+data/model_test_images_split/test/advocate/4739457385_fd1dce8e86.jpg
+Copying:
+data/model_test_images/advocate/2037778565_f2bbbc810c.jpg to
+data/model_test_images_split/test/advocate/2037778565_f2bbbc810c.jpg
+Copying:
+data/model_test_images/advocate/4549899494_81e0c8567b.jpg to
+data/model_test_images_split/test/advocate/4549899494_81e0c8567b.jpg
+Copying:
+data/model_test_images/advocate/562415976_bda7fb3dc9.jpg to
+data/model_test_images_split/test/advocate/562415976_bda7fb3dc9.jpg
+Copying:
+data/model_test_images/advocate/448275657_84f39c3d9d.jpg to
+data/model_test_images_split/test/advocate/448275657_84f39c3d9d.jpg
+Copying:
+data/model_test_images/advocate/4667123510_f919e2dac5.jpg to
+data/model_test_images_split/test/advocate/4667123510_f919e2dac5.jpg
+Copying:
+data/model_test_images/advocate/3727192860_d441d73d0b.jpg to
+data/model_test_images_split/test/advocate/3727192860_d441d73d0b.jpg
+Copying:
+data/model_test_images/advocate/3041395367_65bdf1007c.jpg to
+data/model_test_images_split/test/advocate/3041395367_65bdf1007c.jpg
+2022-10-16 15:36:22.387686: I tensorflow/core/platform/cpu_feature_guard.cc:193] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+Found 80 files belonging to 4 classes.
+Found 20 files belonging to 4 classes.

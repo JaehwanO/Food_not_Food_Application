@@ -1,0 +1,56 @@
+2022-10-16 15:36:13,555 INFO    MainThread:18626 [wandb_setup.py:_flush():68] Configure stats pid to 18626
+2022-10-16 15:36:13,555 INFO    MainThread:18626 [wandb_setup.py:_flush():68] Loading settings from /Users/jaehwan/.config/wandb/settings
+2022-10-16 15:36:13,555 INFO    MainThread:18626 [wandb_setup.py:_flush():68] Loading settings from /Users/jaehwan/Desktop/projects/Food_not_Food/wandb/settings
+2022-10-16 15:36:13,556 INFO    MainThread:18626 [wandb_setup.py:_flush():68] Loading settings from environment variables: {'_require_service': 'True'}
+2022-10-16 15:36:13,556 INFO    MainThread:18626 [wandb_setup.py:_flush():68] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2022-10-16 15:36:13,556 INFO    MainThread:18626 [wandb_init.py:_log_setup():476] Logging user logs to /Users/jaehwan/Desktop/projects/Food_not_Food/wandb/run-20221016_153613-my21lqgm/logs/debug.log
+2022-10-16 15:36:13,556 INFO    MainThread:18626 [wandb_init.py:_log_setup():477] Logging internal logs to /Users/jaehwan/Desktop/projects/Food_not_Food/wandb/run-20221016_153613-my21lqgm/logs/debug-internal.log
+2022-10-16 15:36:13,556 INFO    MainThread:18626 [wandb_init.py:init():516] calling init triggers
+2022-10-16 15:36:13,557 INFO    MainThread:18626 [wandb_init.py:init():519] wandb.init called with sweep_config: {}
+config: {}
+2022-10-16 15:36:13,557 INFO    MainThread:18626 [wandb_init.py:init():535] re-initializing run, found existing run on stack: 1wba0vss
+2022-10-16 15:36:13,558 INFO    MainThread:18626 [wandb_run.py:_finish():1746] finishing run jaehwan0/Food_not_Food/1wba0vss
+2022-10-16 15:36:13,652 ERROR   MainThread:18626 [jupyter.py:save_history():440] Run pip install nbformat to save notebook history
+2022-10-16 15:36:13,653 INFO    MainThread:18626 [jupyter.py:save_ipynb():378] not saving jupyter notebook
+2022-10-16 15:36:13,653 INFO    MainThread:18626 [wandb_init.py:_jupyter_teardown():408] cleaning up jupyter logic
+2022-10-16 15:36:13,653 INFO    MainThread:18626 [wandb_run.py:_atexit_cleanup():1949] got exitcode: 0
+2022-10-16 15:36:13,654 INFO    MainThread:18626 [wandb_run.py:_restore():1932] restore
+2022-10-16 15:36:13,654 INFO    MainThread:18626 [wandb_run.py:_restore():1938] restore done
+2022-10-16 15:36:17,362 INFO    MainThread:18626 [wandb_run.py:_footer_history_summary_info():3377] rendering history
+2022-10-16 15:36:17,362 INFO    MainThread:18626 [wandb_run.py:_footer_history_summary_info():3409] rendering summary
+2022-10-16 15:36:17,366 INFO    MainThread:18626 [wandb_run.py:_footer_sync_info():3333] logging synced files
+2022-10-16 15:36:17,371 INFO    MainThread:18626 [wandb_init.py:init():569] starting backend
+2022-10-16 15:36:17,371 INFO    MainThread:18626 [wandb_init.py:init():573] setting up manager
+2022-10-16 15:36:17,373 INFO    MainThread:18626 [backend.py:_multiprocessing_setup():102] multiprocessing start_methods=spawn,fork,forkserver, using: spawn
+2022-10-16 15:36:17,375 INFO    MainThread:18626 [wandb_init.py:init():580] backend started and connected
+2022-10-16 15:36:17,391 INFO    MainThread:18626 [wandb_run.py:_label_probe_notebook():1113] probe notebook
+2022-10-16 15:36:17,391 INFO    MainThread:18626 [wandb_run.py:_label_probe_notebook():1123] Unable to probe notebook: 'NoneType' object has no attribute 'get'
+2022-10-16 15:36:17,391 INFO    MainThread:18626 [wandb_init.py:init():658] updated telemetry
+2022-10-16 15:36:17,444 INFO    MainThread:18626 [wandb_init.py:init():693] communicating run to backend with 60 second timeout
+2022-10-16 15:36:19,546 INFO    MainThread:18626 [wandb_run.py:_on_init():2000] communicating current version
+2022-10-16 15:36:19,642 INFO    MainThread:18626 [wandb_run.py:_on_init():2004] got version response 
+2022-10-16 15:36:19,642 INFO    MainThread:18626 [wandb_init.py:init():728] starting run threads in backend
+2022-10-16 15:36:19,741 INFO    MainThread:18626 [wandb_run.py:_console_start():1980] atexit reg
+2022-10-16 15:36:19,741 INFO    MainThread:18626 [wandb_run.py:_redirect():1838] redirect: SettingsConsole.WRAP_RAW
+2022-10-16 15:36:19,741 INFO    MainThread:18626 [wandb_run.py:_redirect():1903] Wrapping output streams.
+2022-10-16 15:36:19,741 INFO    MainThread:18626 [wandb_run.py:_redirect():1925] Redirects installed.
+2022-10-16 15:36:19,742 INFO    MainThread:18626 [wandb_init.py:init():765] run started, returning control to user process
+2022-10-16 15:36:26,121 INFO    MainThread:18626 [wandb_setup.py:_flush():68] Configure stats pid to 18626
+2022-10-16 15:36:26,121 INFO    MainThread:18626 [wandb_setup.py:_flush():68] Loading settings from /Users/jaehwan/.config/wandb/settings
+2022-10-16 15:36:26,121 INFO    MainThread:18626 [wandb_setup.py:_flush():68] Loading settings from /Users/jaehwan/Desktop/projects/Food_not_Food/wandb/settings
+2022-10-16 15:36:26,121 INFO    MainThread:18626 [wandb_setup.py:_flush():68] Loading settings from environment variables: {'_require_service': 'True'}
+2022-10-16 15:36:26,121 INFO    MainThread:18626 [wandb_setup.py:_flush():68] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2022-10-16 15:36:26,122 INFO    MainThread:18626 [wandb_init.py:_log_setup():476] Logging user logs to /Users/jaehwan/Desktop/projects/Food_not_Food/wandb/run-20221016_153626-2a2znkir/logs/debug.log
+2022-10-16 15:36:26,122 INFO    MainThread:18626 [wandb_init.py:_log_setup():477] Logging internal logs to /Users/jaehwan/Desktop/projects/Food_not_Food/wandb/run-20221016_153626-2a2znkir/logs/debug-internal.log
+2022-10-16 15:36:26,122 INFO    MainThread:18626 [wandb_init.py:_jupyter_setup():426] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x15de09ff0>
+2022-10-16 15:36:26,122 INFO    MainThread:18626 [wandb_init.py:init():516] calling init triggers
+2022-10-16 15:36:26,122 INFO    MainThread:18626 [wandb_init.py:init():519] wandb.init called with sweep_config: {}
+config: {}
+2022-10-16 15:36:26,122 INFO    MainThread:18626 [wandb_init.py:init():535] re-initializing run, found existing run on stack: my21lqgm
+2022-10-16 15:36:26,124 INFO    MainThread:18626 [wandb_run.py:_finish():1746] finishing run jaehwan0/Food_not_Food/my21lqgm
+2022-10-16 15:36:26,124 INFO    MainThread:18626 [wandb_run.py:_atexit_cleanup():1949] got exitcode: 0
+2022-10-16 15:36:26,124 INFO    MainThread:18626 [wandb_run.py:_restore():1932] restore
+2022-10-16 15:36:26,125 INFO    MainThread:18626 [wandb_run.py:_restore():1938] restore done
+2022-10-16 15:36:31,495 INFO    MainThread:18626 [wandb_run.py:_footer_history_summary_info():3377] rendering history
+2022-10-16 15:36:31,496 INFO    MainThread:18626 [wandb_run.py:_footer_history_summary_info():3409] rendering summary
+2022-10-16 15:36:31,499 INFO    MainThread:18626 [wandb_run.py:_footer_sync_info():3333] logging synced files
