@@ -6,9 +6,10 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Food Not Food App</title>
-  <link href="/styles.css" rel="stylesheet" type="text/css" />
-  <link href="https://unpkg.com/material-components-web@latest/dist/material-components-web.min.css" rel="stylesheet" />
-  <script src="https://unpkg.com/material-components-web@latest/dist/material-components-web.min.js"></script>
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="reset.css">
+  <!-- <link href="https://unpkg.com/material-components-web@latest/dist/material-components-web.min.css" rel="stylesheet" />
+  <script src="https://unpkg.com/material-components-web@latest/dist/material-components-web.min.js"></script> -->
   <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -23,60 +24,68 @@
       </section>
       <section class="mdc-top-app-bar__section mdc-top-app-bar__section--align-end">
         <button class="mdc-button">
-          <a target="_blank" href="https://github.com/mrdbourke/food-not-food">
-            <span class="mdc-button__ripple"></span>
-            <img class="mdc-button__icon" src="images/github.svg" alt="Github" />
-          </a>
-        </button>
-        <button class="mdc-button">
-          <a target="_blank" href="https://youtu.be/W5XNOmyJr6I">
-            <span class="mdc-button__ripple"></span>
-            <img class="mdc-button__icon" src="images/youtube.svg" alt="Github" />
+          <a target="_blank" href="https://github.com/JaehwanO/Food_not_Food_Application">
+            <span class="github_button"></span>
+            <img class="github_button" src="github.svg" alt="Github" />
           </a>
         </button>
       </section>
     </div>
   </header>
+  
   <main class="mdc-top-app-bar--fixed-adjust">
-    <p>This app will tell you if the image you upload is food or not.</p>
-    <p>Yes. That's it.</p>
-    <p>
-      It'll use a computer vision machine learning model to classify your
-      image as "food" or "not food".
-    </p>
+    <div class="text1">
+      <p class="text1_size">This app will tell you if the image you upload is food or not.</p>
+      <p class="text1_size">
+        It will use a computer vision machine learning model to classify your 
+        image as "food" or "not food".
+      </p>
+      <br />
+      <br />
+      <p class="text2_size">The line below will say loaded if TensorFlow.js is loaded:</p>
+      <p id="tfjs_status">Awaiting TF.js load</p>
+      <br />
+      <p class="text2_size">This line below will say loaded if the model is loaded:</p>
+      <p id="model_status">Awaiting TF.js model/TFLite model loading</p>
+      <!-- Upload image -->
     <br />
-
-    <p>The line below will say loaded if TensorFlow.js is loaded:</p>
-    <p id="tfjs_status">Awaiting TF.js load</p>
     <br />
-    <p>This line below will say loaded if the model is loaded:</p>
-    <p id="model_status">Awaiting TF.js model/TFLite model loading</p>
-
-    <!-- Upload image -->
     <br />
     <button id="upload-button" class="mdc-button mdc-button--outlined mdc-button--icon-leading">
       <span class="mdc-button__ripple"></span>
-      <i class="material-icons mdc-button__icon" aria-hidden="true">upload</i>
-      <span class="mdc-button__label">Upload Image</span>
+      <!-- <i class="material-icons mdc-button__icon" aria-hidden="true">upload</i> -->
+      <div class="image_button">
+        <span class="mdc-button__label">Upload Image</span>
+      </div>
+      <!-- <span class="mdc-button__label">Upload Image</span> -->
     </button>
     <p>
       <input type="file" style="display: none" accept="image/*" name="image" id="file-input" />
     </p>
     <p><img id="image" width="200" /></p>
+    <br />
+    <br />
+    <br />
+    
 
-    <p>Predicted class:</p>
+    <p class="text2_size">Predicted class:</p>
     <p id="predicted_class"></p>
-    <p>Predicted probability (higher means more confident):</p>
+    <p class="text2_size">Predicted probability (higher means more confident):</p>
     <p id="predicted_prob"></p>
 
-    <p>
+    <br />
+    <br />
+    <p class="text2_size">
       See the code on
-      <a href="https://github.com/mrdbourke/food-not-food">GitHub</a>.
+        <a href="https://github.com/JaehwanO/Food_not_Food_Application"><p class="github">
+          GitHub
+        </p>
+      </a>.
     </p>
-    <p>
-      See it being built on
-      <a href="https://youtu.be/W5XNOmyJr6I">YouTube</a>.
-    </p>
+    </div>
+    
+
+    
   </main>
 
   <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs/dist/tf.min.js" type="text/javascript"></script>
