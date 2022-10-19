@@ -1,5 +1,6 @@
 Food_not_Food
 Machine Learning Powered App to decide whether a photo is food or not 
+See it working live at: https://foodnotfood.vercel.app/
 
 Log
 * 2022/10/12
@@ -20,6 +21,41 @@ Log
 * Started to downloading images from ImageNet. Filter these images on the backend into food_images and non_food_images
 * Downloading 50 random images from 1000 random classes
 * Then:filter 1000 random classes and images into food/not_food
+* Split the data into training and test sets.
+
+This creates a training and test split of `food` and `not_food` images.
+This is so we can verify the performance of our model before deploying it.
+It'll create such structure:
+
+```
+train/
+    food/
+        image1.jpeg
+        image2.jpeg
+        ...
+    not_food/
+        image100.jpeg
+        image101.jpeg
+        ...
+test/
+    food/
+        image201.jpeg
+        image202.jpeg
+        ...
+    not_food/
+        image301.jpeg
+        image302.jpeg
+        ...
+```
 
 * 2022/10/16
 * Trained first test model using EfficientNetB0
+* Save the model as efficientnetB0.tflite.
+
+
+## What data is used?
+
+The current deployed model uses about 40,000 images of food and 25,000 images of not food.
+
+* Food images come from the [Food101 dataset](https://data.vision.ee.ethz.ch/cvl/datasets_extra/food-101/).
+* Not food and *some* food images come from [Open Images](https://storage.googleapis.com/openimages/web/index.html).
